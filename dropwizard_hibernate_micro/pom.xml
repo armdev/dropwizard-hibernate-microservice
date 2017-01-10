@@ -75,7 +75,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>dropwizard_backend</finalName>
+        <finalName>dropwizard-hibernate-microservice</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
