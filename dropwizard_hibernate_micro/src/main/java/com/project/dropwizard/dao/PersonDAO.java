@@ -6,7 +6,6 @@
 package com.project.dropwizard.dao;
 
 import com.project.dropwizard.model.Person;
-import org.hibernate.SessionFactory;
 
 import io.dropwizard.hibernate.AbstractDAO;
 import org.hibernate.SessionFactory;
